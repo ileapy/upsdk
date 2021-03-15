@@ -1,0 +1,19 @@
+{
+    "name": "cfn/upsdk",
+    "description": "云闪付非官方开发包",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cfn",
+            "email": "cfn@leapy.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "upsdk\\": "upsdk/"
+        }
+    }
+}
