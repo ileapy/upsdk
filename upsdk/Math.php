@@ -5,6 +5,7 @@
  * Date: 2021/3/15
  * Email: <cfn@leapy.cn>
  */
+namespace upsdk;
 
 /**
  * 数学函数
